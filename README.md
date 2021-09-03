@@ -1,2 +1,2 @@
 # Tembo
-Labor Software
+Labor Software für echte Laborarbeiter
